@@ -1,8 +1,10 @@
 ### Hi,  
-#### I’m @jryan814
-I am a data/coding nerd...I have always loved automating processes in anyway that I can, and analyzing then visualizing data.  
-Even in my non-tech roles I constantly was looking for ways to get my hands dirty with data analysis.
-- I am currently in the process of finding my first data science/analyst position.
-  - I have a very strong business acumen which pairs perfectly with my data science skills.  
-  
-I would love to collaborate on any project (but I would be most useful if it is related to Python or the data science realm.)
+#### I’m @jryan814  
+
+I am a data/coding nerd...I have always loved automating processes, analyzing and visualizing data.   
+Even in my non-tech roles I would put my data science and analytic skills to work taking on additional responsibilities to work with data and technology.  
+A couple things about me:
+  - 13+ years of operations management experience  
+  - A very strong business acumen and operational knowledge (which pairs perfectly with my data science skillset)  
+  - I am constantly looking for new projects, and am looking to jumpstart my career.  
+- [datab-projects](http://github.com/jryan814/datab-projects) is my main data science repo.
